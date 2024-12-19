@@ -1,4 +1,4 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/bookcafe-fe2b5.appspot.com/o/banner.png?alt=media&token=47f8a11e-9a7a-487c-b0d9-403ff606be79)
+![MasterHead](https://drive.google.com/file/d/15qr8O094fqibs-H8Q1i4A7PugDgtfNzr/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
