@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sarthak-portfolio-gray.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sarthak-portfolio-delta.vercel.app/)
 
 - 💬 Ask me about **React, Node, Mongo, C++, Python**
 
