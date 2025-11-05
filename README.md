@@ -4,15 +4,13 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> -->
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sarthak-portfolio-delta.vercel.app/)
 
-- 💬 Ask me about **React, Node, Mongo, C++, Python**
+- 💬 Ask me about **React, Node, Mongo, C++, Python, Java**
 
 - 📫 How to reach me **144singhsarthak@gmail.com**
 
-- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1DWJ0-Qq3PyYqVKBVltJX_QnmdYXbtfFm/view?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1B7ahH8PRtGEdkUnnimlMAw6s6Rzc1-0b/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
