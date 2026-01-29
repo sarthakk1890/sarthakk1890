@@ -1,4 +1,3 @@
-![MasterHead](https://i.ibb.co/7zY91sh/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
